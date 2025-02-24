@@ -17,7 +17,7 @@ Gmail Agent is an AI-powered tool that interacts with Gmail to help automate ema
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/gmail-agent.git
+   git clone https://github.com/vpavasovcase/gmail-agent.git
    cd gmail-agent
    ```
 
